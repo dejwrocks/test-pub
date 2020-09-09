@@ -1,0 +1,2 @@
+(this["webpackJsonpauth-ui"]=this["webpackJsonpauth-ui"]||[]).push([[4],{35:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return o}));var a=n(0),u=n.n(a),c=n(1);function o(){var e=Object(c.f)();return Object(a.useEffect)((function(){console.log("Home mount")}),[]),u.a.createElement("div",{className:"Home"},"Home Content",u.a.createElement("div",{onClick:function(){e.push({pathname:"add-auth",search:"name=3&id=2"})}},"\u70b9\u51fb\u53bb\u6dfb\u52a0\u6388\u6743"))}}}]);
+//# sourceMappingURL=4.fead27d1.chunk.js.map
