@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ff974ff.chunk.css",
-    "main.js": "/static/js/main.f65957b4.chunk.js",
-    "main.js.map": "/static/js/main.f65957b4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d72b414d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d72b414d.js.map",
-    "static/js/2.56554e5e.chunk.js": "/static/js/2.56554e5e.chunk.js",
-    "static/js/2.56554e5e.chunk.js.map": "/static/js/2.56554e5e.chunk.js.map",
-    "static/js/3.53d19c1b.chunk.js": "/static/js/3.53d19c1b.chunk.js",
-    "static/js/3.53d19c1b.chunk.js.map": "/static/js/3.53d19c1b.chunk.js.map",
-    "static/js/4.fead27d1.chunk.js": "/static/js/4.fead27d1.chunk.js",
-    "static/js/4.fead27d1.chunk.js.map": "/static/js/4.fead27d1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.02e3273374451a9bfa112d01287a9ddb.js": "/precache-manifest.02e3273374451a9bfa112d01287a9ddb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.4ff974ff.chunk.css.map": "/static/css/main.4ff974ff.chunk.css.map",
-    "static/js/2.56554e5e.chunk.js.LICENSE.txt": "/static/js/2.56554e5e.chunk.js.LICENSE.txt"
+    "main.css": "/lvwei524/test-pub/static/css/main.4ff974ff.chunk.css",
+    "main.js": "/lvwei524/test-pub/static/js/main.0ab02501.chunk.js",
+    "main.js.map": "/lvwei524/test-pub/static/js/main.0ab02501.chunk.js.map",
+    "runtime-main.js": "/lvwei524/test-pub/static/js/runtime-main.7eca8a01.js",
+    "runtime-main.js.map": "/lvwei524/test-pub/static/js/runtime-main.7eca8a01.js.map",
+    "static/js/2.56554e5e.chunk.js": "/lvwei524/test-pub/static/js/2.56554e5e.chunk.js",
+    "static/js/2.56554e5e.chunk.js.map": "/lvwei524/test-pub/static/js/2.56554e5e.chunk.js.map",
+    "static/js/3.53d19c1b.chunk.js": "/lvwei524/test-pub/static/js/3.53d19c1b.chunk.js",
+    "static/js/3.53d19c1b.chunk.js.map": "/lvwei524/test-pub/static/js/3.53d19c1b.chunk.js.map",
+    "static/js/4.fead27d1.chunk.js": "/lvwei524/test-pub/static/js/4.fead27d1.chunk.js",
+    "static/js/4.fead27d1.chunk.js.map": "/lvwei524/test-pub/static/js/4.fead27d1.chunk.js.map",
+    "index.html": "/lvwei524/test-pub/index.html",
+    "precache-manifest.92eeb47b1d1fb9c503426039985b48f8.js": "/lvwei524/test-pub/precache-manifest.92eeb47b1d1fb9c503426039985b48f8.js",
+    "service-worker.js": "/lvwei524/test-pub/service-worker.js",
+    "static/css/main.4ff974ff.chunk.css.map": "/lvwei524/test-pub/static/css/main.4ff974ff.chunk.css.map",
+    "static/js/2.56554e5e.chunk.js.LICENSE.txt": "/lvwei524/test-pub/static/js/2.56554e5e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d72b414d.js",
+    "static/js/runtime-main.7eca8a01.js",
     "static/js/2.56554e5e.chunk.js",
     "static/css/main.4ff974ff.chunk.css",
-    "static/js/main.f65957b4.chunk.js"
+    "static/js/main.0ab02501.chunk.js"
   ]
 }
